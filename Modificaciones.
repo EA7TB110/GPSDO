@@ -1,0 +1,7 @@
+Modificaniones:
+Eliminacion:
+  Pulsadores, no los vamos a utilizar.
+  Display lcd, solo dejaremos un conector para un bus i2c
+  OXTC U9, solo usaremos el U8
+  Todos los elementos que estan alrededor de esos componentes eliminados.
+  
